@@ -169,3 +169,4 @@ Received Import Request.
 Start importing Assets/EffectExamples/Smoke & Steam Effects/Materials/SmokeLight.mat using Guid(f06455b167e1b0b428c9af62d7aa6832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcf4e6fac452356e3909e8e67beb42b1') in 0.502675 seconds 
   Import took 0.511501 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
