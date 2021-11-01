@@ -37,6 +37,9 @@
         },
         {
             "m_Id": "e0366ce915884fb0926e6397f489841c"
+        },
+        {
+            "m_Id": "28e7a0258d914cd18b913c3d9591a23f"
         }
     ],
     "m_Nodes": [
@@ -1080,6 +1083,27 @@
     "m_Property": {
         "m_Id": "76e6f5acdf8609878e8c788fd6679c17"
     }
+}
+
+{
+    "m_SGVersion": 1,
+    "m_Type": "UnityEditor.ShaderGraph.ShaderKeyword",
+    "m_ObjectId": "28e7a0258d914cd18b913c3d9591a23f",
+    "m_Guid": {
+        "m_GuidSerialized": "0476dbbc-84ff-42bd-9743-5ce697a10e96"
+    },
+    "m_Name": "VertexColor",
+    "m_DefaultRefNameVersion": 1,
+    "m_RefNameGeneratedByDisplayName": "VertexColor",
+    "m_DefaultReferenceName": "VERTEXCOLOR",
+    "m_OverrideReferenceName": "",
+    "m_GeneratePropertyBlock": true,
+    "m_KeywordType": 0,
+    "m_KeywordDefinition": 0,
+    "m_KeywordScope": 0,
+    "m_Entries": [],
+    "m_Value": 0,
+    "m_IsEditable": true
 }
 
 {

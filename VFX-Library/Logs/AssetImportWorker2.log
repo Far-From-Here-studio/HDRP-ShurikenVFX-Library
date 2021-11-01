@@ -1,0 +1,21 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.27f1 (7e296a84045d) revision 8268138'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19043.1288; Version 2009; 64bit' Language: 'fr' Physical Memory: 16258 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.1.27f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+D:/GitHub/GitHub/VFX-Library/VFX-Library/VFX-Library
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+4424
+Successfully changed project path to: D:/GitHub/GitHub/VFX-Library/VFX-Library/VFX-Library
+D:/GitHub/GitHub/VFX-Library/VFX-Library/VFX-Library
+Using Asset Import Pipeline V2.
