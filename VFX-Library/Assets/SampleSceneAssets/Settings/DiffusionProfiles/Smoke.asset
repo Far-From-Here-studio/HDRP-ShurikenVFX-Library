@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2686e09ec7aef44bad2843e4416f057, type: 3}
+  m_Name: Smoke
+  m_EditorClassIdentifier: 
+  profile:
+    scatteringDistance: {r: 0.71922237, g: 0.71922237, b: 0.71922237, a: 1}
+    transmissionTint: {r: 333.8545, g: 333.8545, b: 333.8545, a: 1}
+    texturingMode: 0
+    transmissionMode: 1
+    thicknessRemap: {x: 5.8403635, y: 14.578662}
+    worldScale: 1
+    ior: 1.089
+    hash: 1082025554
+  m_Version: 1
