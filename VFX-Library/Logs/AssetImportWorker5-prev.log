@@ -1,0 +1,558 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.27f1 (7e296a84045d) revision 8268138'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 22000.282; Version 2009; 64bit' Language: 'fr' Physical Memory: 16258 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.1.27f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker5
+-projectPath
+D:/GitHub/GitHub/VFX-Library/VFX-Library/VFX-Library
+-logFile
+Logs/AssetImportWorker5.log
+-srvPort
+25876
+Successfully changed project path to: D:/GitHub/GitHub/VFX-Library/VFX-Library/VFX-Library
+D:/GitHub/GitHub/VFX-Library/VFX-Library/VFX-Library
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 135.74 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.27f1 (7e296a84045d)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.27f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/GitHub/GitHub/VFX-Library/VFX-Library/VFX-Library/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 (ID=0x1c20)
+    Vendor:   NVIDIA
+    VRAM:     6052 MB
+    Driver:   30.0.14.9649
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.27f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.27f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.27f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56624
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.27f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001337 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 136.63 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.239 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1240ms)
+		BeginReloadAssembly (65ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (580ms)
+			LoadAssemblies (61ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (191ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (34ms)
+			SetupLoadedEditorAssemblies (296ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (137ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (122ms)
+				ProcessInitializeOnLoadMethodAttributes (29ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005790 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 279.08 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  9.052 seconds
+Domain Reload Profiling:
+	ReloadAssembly (9053ms)
+		BeginReloadAssembly (164ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (21ms)
+		EndReloadAssembly (8829ms)
+			LoadAssemblies (2817ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (436ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (86ms)
+			SetupLoadedEditorAssemblies (5392ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (279ms)
+				BeforeProcessingInitializeOnLoad (105ms)
+				ProcessInitializeOnLoadAttributes (335ms)
+				ProcessInitializeOnLoadMethodAttributes (4665ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.10 seconds
+Refreshing native plugins compatible for Editor in 1.30 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5296 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 296.9 MB.
+System memory in use after: 297.3 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 5760.
+Total: 4.429600 ms (FindLiveObjects: 0.398900 ms CreateObjectMapping: 0.285300 ms MarkObjects: 3.679000 ms  DeleteObjects: 0.065700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/EffectExamples/Fire & Explosion Effects/Materials/Embers.mat
+  artifactKey: Guid(776677ab3818fb249adaca05f4e04545) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects/Materials/Embers.mat using Guid(776677ab3818fb249adaca05f4e04545) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37753637aaedeba921980beb285e1c3b') in 10.750183 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/EffectExamples/Fire & Explosion Effects/Materials/TinyFlame.mat
+  artifactKey: Guid(2a24b896dbe48144ab8d4a90468ad00e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects/Materials/TinyFlame.mat using Guid(2a24b896dbe48144ab8d4a90468ad00e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01882aa62d60c57fb854160e47e58dac') in 0.766661 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/EffectExamples/Fire & Explosion Effects/Materials/LargeFlame01.mat
+  artifactKey: Guid(af29e4d6b5ada10438f9e9b5bb6d19d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects/Materials/LargeFlame01.mat using Guid(af29e4d6b5ada10438f9e9b5bb6d19d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '509b3f13ec3280849da8516e1b5ac1e1') in 0.194307 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/EffectExamples/Fire & Explosion Effects/Prefabs/WildFire.prefab
+  artifactKey: Guid(f293a2dcc753a4a489fefe7f8f312d69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects/Prefabs/WildFire.prefab using Guid(f293a2dcc753a4a489fefe7f8f312d69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a63c77d215123bbd7928249c1f9303c2') in 0.360813 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/SampleSceneAssets/Settings/DiffusionProfiles/Smoke.asset
+  artifactKey: Guid(7ce67bdb2cfa3f445ba6ded49707bc1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SampleSceneAssets/Settings/DiffusionProfiles/Smoke.asset using Guid(7ce67bdb2cfa3f445ba6ded49707bc1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbb07e7157b1ec5f58ee6c505a3b6477') in 0.009757 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/EffectExamples/Fire & Explosion Effects/Prefabs/Point Light.prefab
+  artifactKey: Guid(84e2c0480d9c7ed4492e5f27682d70f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects/Prefabs/Point Light.prefab using Guid(84e2c0480d9c7ed4492e5f27682d70f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d190b9ef839d839b75021153e0b4058') in 0.064399 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/_TECH/High Definition RP VFX SHADERS/11.0.0/Particle System Shader Samples/Shaders/Subgraphs/ParticleVertexColor.shadersubgraph
+  artifactKey: Guid(949fc2a212e73804aa80ab6100b7d360) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TECH/High Definition RP VFX SHADERS/11.0.0/Particle System Shader Samples/Shaders/Subgraphs/ParticleVertexColor.shadersubgraph using Guid(949fc2a212e73804aa80ab6100b7d360) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbfc78f07e6be951af5858fb2cea75ca') in 0.012464 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/EffectExamples/Fire & Explosion Effects/Prefabs/TinyExplosion.prefab
+  artifactKey: Guid(25c7aa9ad705fe143a4d71c1c8deb7d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects/Prefabs/TinyExplosion.prefab using Guid(25c7aa9ad705fe143a4d71c1c8deb7d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '563259866a59eafbd8b059dbd7d6d80a') in 0.355329 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/EffectExamples/Fire & Explosion Effects/Materials/MediumFlame01.mat
+  artifactKey: Guid(5584a46a2a298d348a252b58b4847ae0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects/Materials/MediumFlame01.mat using Guid(5584a46a2a298d348a252b58b4847ae0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61c0c38fb5ef3301f91d8feb29070889') in 0.155094 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/EffectExamples/Fire & Explosion Effects/Prefabs/ParticlesLight.prefab
+  artifactKey: Guid(fa35d75604d172d48b7a6b62a07c7dbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects/Prefabs/ParticlesLight.prefab using Guid(fa35d75604d172d48b7a6b62a07c7dbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc7c024150ecd13dfbbd725f74866368') in 0.029883 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000374 seconds.
+  path: Assets/EffectExamples/Fire & Explosion Effects/Prefabs/TinyFlames.prefab
+  artifactKey: Guid(ea4fb55d0227e604386f44f905cfe7c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects/Prefabs/TinyFlames.prefab using Guid(ea4fb55d0227e604386f44f905cfe7c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bacb7a48d6d862cd68c536f97706d75') in 0.036568 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000365 seconds.
+  path: Assets/EffectExamples/Fire & Explosion Effects/Materials/LargeFlame02.mat
+  artifactKey: Guid(b25dd701bdc692249907c8b4e4b784b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects/Materials/LargeFlame02.mat using Guid(b25dd701bdc692249907c8b4e4b784b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac627261de1d74a933a7f3c2c9161e4f') in 0.192496 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/EffectExamples/Fire & Explosion Effects/Textures/LargeFlame01.tif
+  artifactKey: Guid(a0a243891db69d743aa08a4066effb00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects/Textures/LargeFlame01.tif using Guid(a0a243891db69d743aa08a4066effb00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '000d71b3d432787870a5a935634aedf7') in 0.033980 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Packages/com.unity.render-pipelines.high-definition/Runtime/RenderPipelineResources/Material/DefaultHDParticleMaterial.mat
+  artifactKey: Guid(b739a3f02ff77bf48b7636e64c3e3b4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.high-definition/Runtime/RenderPipelineResources/Material/DefaultHDParticleMaterial.mat using Guid(b739a3f02ff77bf48b7636e64c3e3b4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6d2b452b6579f26463951e740d8283e') in 0.050722 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/EffectExamples/Fire & Explosion Effects/Prefabs/FlameStream.prefab
+  artifactKey: Guid(bccc7a794e75b2a44a4b0dac69160b7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects/Prefabs/FlameStream.prefab using Guid(bccc7a794e75b2a44a4b0dac69160b7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdb23f90c2ac5ae769f7fee3b9f7be7c') in 0.037569 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000321 seconds.
+  path: Assets/EffectExamples/Fire & Explosion Effects/Prefabs/SmallExplosion.prefab
+  artifactKey: Guid(64891a0eb28db934898420d80ca07cb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects/Prefabs/SmallExplosion.prefab using Guid(64891a0eb28db934898420d80ca07cb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28b7b308a2416733db590a255b6b87e1') in 0.197016 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/EffectExamples/Fire & Explosion Effects/Textures/MediumFlame01.tif
+  artifactKey: Guid(1b9340725602e9d40a4e86d4b9dfcb78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects/Textures/MediumFlame01.tif using Guid(1b9340725602e9d40a4e86d4b9dfcb78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '980d2a0a821f65a2d4162ccf9c04f6fb') in 0.014044 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/EffectExamples/Fire & Explosion Effects/Prefabs/BigExplosion.prefab
+  artifactKey: Guid(e1b08032bec16ba4eb1ae23cbd572664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects/Prefabs/BigExplosion.prefab using Guid(e1b08032bec16ba4eb1ae23cbd572664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '124ca56a08179168830adc915c24eccc') in 0.059533 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/_TECH/High Definition RP VFX SHADERS/11.0.0/Particle System Shader Samples/Shaders/Subgraphs/SoftParticles.shadersubgraph
+  artifactKey: Guid(584d5fe956cac4c4290a493e519136f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TECH/High Definition RP VFX SHADERS/11.0.0/Particle System Shader Samples/Shaders/Subgraphs/SoftParticles.shadersubgraph using Guid(584d5fe956cac4c4290a493e519136f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f5969e52b0edea15735a48aa92d5685') in 0.007706 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/EffectExamples/Fire & Explosion Effects/Prefabs/FireBall.prefab
+  artifactKey: Guid(a990e3ac1318b834488c784d851f42a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects/Prefabs/FireBall.prefab using Guid(a990e3ac1318b834488c784d851f42a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab31667d45f2936c899fa56c80225af6') in 0.020202 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/EffectExamples/Fire & Explosion Effects/Prefabs/LargeFlames.prefab
+  artifactKey: Guid(3244176458df50344b71e60f96d48494) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects/Prefabs/LargeFlames.prefab using Guid(3244176458df50344b71e60f96d48494) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cc0c70b32b25c23407d87fe9694e0f2') in 0.020846 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/EffectExamples/Fire & Explosion Effects/Prefabs/DustExplosion.prefab
+  artifactKey: Guid(d8f0099df63275647a8bcf646df1ca00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects/Prefabs/DustExplosion.prefab using Guid(d8f0099df63275647a8bcf646df1ca00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78144e9e889b98e2b6ae496a21a9a75e') in 0.032562 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000431 seconds.
+  path: Assets/_TECH/High Definition RP VFX SHADERS/11.0.0/Particle System Shader Samples/Shaders/ParticleLitFlipbookCameraFading.shadergraph
+  artifactKey: Guid(2f967a2fb532dab47b7aa2adfec11422) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TECH/High Definition RP VFX SHADERS/11.0.0/Particle System Shader Samples/Shaders/ParticleLitFlipbookCameraFading.shadergraph using Guid(2f967a2fb532dab47b7aa2adfec11422) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ed7c4e5e53a7c68442817eb3eaf6e22') in 0.012074 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/EffectExamples/Fire & Explosion Effects/Materials/fireball.mat
+  artifactKey: Guid(3349fc02d104e2b458470ec533f51c16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects/Materials/fireball.mat using Guid(3349fc02d104e2b458470ec533f51c16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48926c8b3bede181e5ea55a08e8ad3d8') in 0.059507 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/_TECH/High Definition RP VFX SHADERS/11.0.0/Particle System Shader Samples/Shaders/Subgraphs/ParticleCameraFade.shadersubgraph
+  artifactKey: Guid(dd4fa652b47611c419d37ca036ce697f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TECH/High Definition RP VFX SHADERS/11.0.0/Particle System Shader Samples/Shaders/Subgraphs/ParticleCameraFade.shadersubgraph using Guid(dd4fa652b47611c419d37ca036ce697f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f997b36109c9708ee345653aa211000') in 0.008147 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/EffectExamples/Fire & Explosion Effects/Prefabs/FlameThrower.prefab
+  artifactKey: Guid(007c57e2df8e9b144b99f471b84f3d56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects/Prefabs/FlameThrower.prefab using Guid(007c57e2df8e9b144b99f471b84f3d56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e2b3adeb71e4d47869482c24d2ca2eb') in 0.017176 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.024692 seconds.
+  path: Assets/EffectExamples/Fire & Explosion Effects/Textures/MediumFlame01Emission.tif
+  artifactKey: Guid(c6ea76e08bf04fa4b959f8b193bd459c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects/Textures/MediumFlame01Emission.tif using Guid(c6ea76e08bf04fa4b959f8b193bd459c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b52938b37de93c07639437d7ceba1f1') in 0.060754 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.043187 seconds.
+  path: Assets/_TECH/High Definition RP VFX SHADERS/11.0.0/Particle System Shader Samples/Shaders/Subgraphs/ParticleFlipbookBlending.shadersubgraph
+  artifactKey: Guid(05b47831421900c49925e8aab352d822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TECH/High Definition RP VFX SHADERS/11.0.0/Particle System Shader Samples/Shaders/Subgraphs/ParticleFlipbookBlending.shadersubgraph using Guid(05b47831421900c49925e8aab352d822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f159f7586cf6832575f53e235e0532ee') in 0.008239 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.294175 seconds.
+  path: Assets/EffectExamples/Fire & Explosion Effects/Materials/FireExplosion.mat
+  artifactKey: Guid(7a306caa8f9f7ed40a5361ce411cdf1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects/Materials/FireExplosion.mat using Guid(7a306caa8f9f7ed40a5361ce411cdf1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68b63c4f192302c961721e3aecdb6ccc') in 0.230760 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 25.483487 seconds.
+  path: Assets/EffectExamples/Fire & Explosion Effects/Prefabs/TinyFlames.prefab
+  artifactKey: Guid(ea4fb55d0227e604386f44f905cfe7c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects/Prefabs/TinyFlames.prefab using Guid(ea4fb55d0227e604386f44f905cfe7c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '716913c8e52809ccaec48d044f053a57') in 0.023567 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.578114 seconds.
+  path: Assets/EffectExamples/Fire & Explosion Effects/Prefabs/WildFire.prefab
+  artifactKey: Guid(f293a2dcc753a4a489fefe7f8f312d69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects/Prefabs/WildFire.prefab using Guid(f293a2dcc753a4a489fefe7f8f312d69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac53cda89311b586a5f333bc9638f564') in 0.138977 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.718433 seconds.
+  path: Assets/EffectExamples/Fire & Explosion Effects/Prefabs/FlameThrower.prefab
+  artifactKey: Guid(007c57e2df8e9b144b99f471b84f3d56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects/Prefabs/FlameThrower.prefab using Guid(007c57e2df8e9b144b99f471b84f3d56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d580afd81df646aee2d4559ce1edd6b') in 0.019225 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.392504 seconds.
+  path: Assets/EffectExamples/Fire & Explosion Effects/Prefabs/FireBall.prefab
+  artifactKey: Guid(a990e3ac1318b834488c784d851f42a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects/Prefabs/FireBall.prefab using Guid(a990e3ac1318b834488c784d851f42a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5341fcf658f1969ddbbdd9fb24964392') in 0.017182 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.234733 seconds.
+  path: Assets/EffectExamples/Fire & Explosion Effects/Prefabs/FlameStream.prefab
+  artifactKey: Guid(bccc7a794e75b2a44a4b0dac69160b7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects/Prefabs/FlameStream.prefab using Guid(bccc7a794e75b2a44a4b0dac69160b7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f6da3f1531ebf5ff70bc4a342e8a15f') in 0.016182 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 19.612299 seconds.
+  path: Assets/EffectExamples/Fire & Explosion Effects/Textures/MediumFlame03.tif
+  artifactKey: Guid(8ac487e221970a74fbf27f24086ea441) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects/Textures/MediumFlame03.tif using Guid(8ac487e221970a74fbf27f24086ea441) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f4c93a2d434091d4b590a2061151cc5') in 0.019128 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.033422 seconds.
+  path: Assets/EffectExamples/Fire & Explosion Effects/Textures
+  artifactKey: Guid(213f07f7b01039947a7e45621e376ef8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects/Textures using Guid(213f07f7b01039947a7e45621e376ef8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8bd5dd3dd180ce50ef359f9aff4e952') in 0.007031 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.079702 seconds.
+  path: Assets/EffectExamples/Fire & Explosion Effects/Textures/Explosion.tif
+  artifactKey: Guid(409ef26b64696f340b2f62b41d2fc11f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects/Textures/Explosion.tif using Guid(409ef26b64696f340b2f62b41d2fc11f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0e5e11894f3f10787febd050dcd1dbd') in 0.014230 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.109845 seconds.
+  path: Assets/EffectExamples/Fire & Explosion Effects/Textures/FireExplosion.tif
+  artifactKey: Guid(59459fa5f4874d34c8a955afad00260b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects/Textures/FireExplosion.tif using Guid(59459fa5f4874d34c8a955afad00260b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df92a13ff58b6383ee875685dad50419') in 0.012660 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.074075 seconds.
+  path: Assets/EffectExamples/Fire & Explosion Effects/Textures/Fireball.tif
+  artifactKey: Guid(8de8e22f7a7bd4442994c4abcb489b97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects/Textures/Fireball.tif using Guid(8de8e22f7a7bd4442994c4abcb489b97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '001ce30809bfec3db087e9e921a5618f') in 0.014382 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.097851 seconds.
+  path: Assets/EffectExamples/Fire & Explosion Effects/Textures/ExplosionEmission.tif
+  artifactKey: Guid(05db667749fd79541b026bff39d94a66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects/Textures/ExplosionEmission.tif using Guid(05db667749fd79541b026bff39d94a66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f437d4feb3ec30252e2af176c0576d4f') in 0.066654 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.087924 seconds.
+  path: Assets/EffectExamples/Fire & Explosion Effects/Materials/Dust.mat
+  artifactKey: Guid(53a63d52a4c231f4c8ef0f2bfc170425) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects/Materials/Dust.mat using Guid(53a63d52a4c231f4c8ef0f2bfc170425) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3d2ca2db5c28a3170721cb607dd864a') in 0.074309 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.041930 seconds.
+  path: Assets/EffectExamples/Fire & Explosion Effects/Prefabs
+  artifactKey: Guid(b9bd3b379cc4afa488779d5ff2ad53d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects/Prefabs using Guid(b9bd3b379cc4afa488779d5ff2ad53d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22ccf00ca96bc1ab329edc913bc38a67') in 0.008562 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.058309 seconds.
+  path: Assets/EffectExamples/Fire & Explosion Effects/Textures/Debris.png
+  artifactKey: Guid(af1f1b45fa6b5e64894c04ceb8a592f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects/Textures/Debris.png using Guid(af1f1b45fa6b5e64894c04ceb8a592f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29f4d4558d0e4acf37c2cde024194a1b') in 0.024825 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.037047 seconds.
+  path: Assets/EffectExamples/Fire & Explosion Effects/Textures/Lightning.tif
+  artifactKey: Guid(92781d74b982d084ca9223b02d2cae11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects/Textures/Lightning.tif using Guid(92781d74b982d084ca9223b02d2cae11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '110ec0e7aa569e1879e45aaec7681a40') in 0.012592 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.068168 seconds.
+  path: Assets/EffectExamples/Fire & Explosion Effects/Textures/TinyFlame.tif
+  artifactKey: Guid(4aa9e9c9f98c7a449ac023f74184d0b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects/Textures/TinyFlame.tif using Guid(4aa9e9c9f98c7a449ac023f74184d0b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd630adc178789736a1191669d37bac83') in 0.016657 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.011550 seconds.
+  path: Assets/EffectExamples/Fire & Explosion Effects/Materials/ExplosionDistortion.mat
+  artifactKey: Guid(fafa06e8ef8c7fb4eac7a74c65cf3a06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects/Materials/ExplosionDistortion.mat using Guid(fafa06e8ef8c7fb4eac7a74c65cf3a06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc30f255b493c2734e08bcc3da099201') in 0.016681 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.022121 seconds.
+  path: Assets/EffectExamples/Fire & Explosion Effects/Materials/EnergyShockwave.mat
+  artifactKey: Guid(65586f2fde3974c4e9469dfe6cf89338) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects/Materials/EnergyShockwave.mat using Guid(65586f2fde3974c4e9469dfe6cf89338) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da7f6b1ed588d326ba4813dca1e83fc1') in 0.019367 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.009618 seconds.
+  path: Assets/EffectExamples/Fire & Explosion Effects
+  artifactKey: Guid(56ea2a4a7223a1e4597ba3846493058e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects using Guid(56ea2a4a7223a1e4597ba3846493058e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dec7b74d139c24c414a8b2840adfe7b9') in 0.007256 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.032501 seconds.
+  path: Assets/_TECH/High Definition RP VFX SHADERS/11.0.0/Particle System Shader Samples/Shaders/Subgraphs/ParticleDistortion.shadersubgraph
+  artifactKey: Guid(62b5c3f7a02b14a4d87eeea12dae07bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TECH/High Definition RP VFX SHADERS/11.0.0/Particle System Shader Samples/Shaders/Subgraphs/ParticleDistortion.shadersubgraph using Guid(62b5c3f7a02b14a4d87eeea12dae07bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a762fe9b81796a69e841cafe7530f30e') in 0.008125 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.019158 seconds.
+  path: Assets/EffectExamples/Fire & Explosion Effects/Materials/Explosion.mat
+  artifactKey: Guid(6421a5a06ae9f7a47a57b67f35c73b5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects/Materials/Explosion.mat using Guid(6421a5a06ae9f7a47a57b67f35c73b5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa518f3673d2b5cc07474cbb40a5e636') in 0.019011 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.030106 seconds.
+  path: Assets/EffectExamples/Fire & Explosion Effects/Textures/TinyStones.png
+  artifactKey: Guid(ce97ed62c0a56e84ab25e22c8dfd5bca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects/Textures/TinyStones.png using Guid(ce97ed62c0a56e84ab25e22c8dfd5bca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '565462a83865f897822a0e506f5360cf') in 0.012780 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.038861 seconds.
+  path: Assets/_TECH/High Definition RP VFX SHADERS/11.0.0/Particle System Shader Samples/Shaders/ParticleLitDistortion.shadergraph
+  artifactKey: Guid(2bec6c6e24499314b9d7a91e2e69178f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TECH/High Definition RP VFX SHADERS/11.0.0/Particle System Shader Samples/Shaders/ParticleLitDistortion.shadergraph using Guid(2bec6c6e24499314b9d7a91e2e69178f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6090b8f341874c76fc45f2d3e974b1ea') in 0.008791 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.011330 seconds.
+  path: Assets/EffectExamples/Fire & Explosion Effects/Materials/EnergyExplosion.mat
+  artifactKey: Guid(bf88af72084132746823869f28b070f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects/Materials/EnergyExplosion.mat using Guid(bf88af72084132746823869f28b070f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6854f765765577c7c1c4d87888389250') in 0.040669 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.019912 seconds.
+  path: Assets/_TECH/High Definition RP VFX SHADERS/11.0.0/Particle System Shader Samples/Shaders/ParticleLit.shadergraph
+  artifactKey: Guid(6fabb132d3e307c4c97becb08f822dbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TECH/High Definition RP VFX SHADERS/11.0.0/Particle System Shader Samples/Shaders/ParticleLit.shadergraph using Guid(6fabb132d3e307c4c97becb08f822dbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e00050f67139c61b3d1841f0d72f2731') in 0.009232 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.018655 seconds.
+  path: Assets/EffectExamples/Fire & Explosion Effects/Materials/DebrisParticle.mat
+  artifactKey: Guid(72815344e9e9c7446895e130936932d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects/Materials/DebrisParticle.mat using Guid(72815344e9e9c7446895e130936932d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efb352e8b306117e58e729c75999277f') in 0.020314 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.051032 seconds.
+  path: Assets/EffectExamples/Fire & Explosion Effects/Textures/SphereNormal.tif
+  artifactKey: Guid(b7de68a779f91264e8da00162a6b7168) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects/Textures/SphereNormal.tif using Guid(b7de68a779f91264e8da00162a6b7168) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82f1875a6813d7db119e43117c46beb6') in 0.017077 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.015658 seconds.
+  path: Assets/EffectExamples/Fire & Explosion Effects/Textures/Ramp03.png
+  artifactKey: Guid(595a5c1164fec844f8e6b477620221f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects/Textures/Ramp03.png using Guid(595a5c1164fec844f8e6b477620221f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b804ee5ae627b6f83c4fa4c2e41731cc') in 0.019137 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.012715 seconds.
+  path: Assets/EffectExamples/Fire & Explosion Effects/Textures/ramp01.png
+  artifactKey: Guid(99e09a9bd0f10384fa2a3bcbd5c65c9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects/Textures/ramp01.png using Guid(99e09a9bd0f10384fa2a3bcbd5c65c9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56a740a5585493094c10095b07883907') in 0.010571 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.038786 seconds.
+  path: Assets/EffectExamples/Fire & Explosion Effects/Textures/shockwave.tif
+  artifactKey: Guid(492f3349f92767645a752364a5d18422) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects/Textures/shockwave.tif using Guid(492f3349f92767645a752364a5d18422) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd377f834c05a207dbbce224710603250') in 0.013157 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.029997 seconds.
+  path: Assets/EffectExamples/Fire & Explosion Effects/Textures/FireBallEmission.tif
+  artifactKey: Guid(d9d8e2fe51aaf4a40b6a5581589afa98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects/Textures/FireBallEmission.tif using Guid(d9d8e2fe51aaf4a40b6a5581589afa98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '291330ed83cfc3a5835bce3a47da26d2') in 0.079768 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.124415 seconds.
+  path: Assets/EffectExamples/Fire & Explosion Effects/Textures/SmokePuff01.tif
+  artifactKey: Guid(26e206bd730800f4f82b828eb9f1c067) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects/Textures/SmokePuff01.tif using Guid(26e206bd730800f4f82b828eb9f1c067) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59642ce18c58ba94d05e7706c27e190a') in 0.020944 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.015795 seconds.
+  path: Assets/EffectExamples/Fire & Explosion Effects/Materials/Lightning.mat
+  artifactKey: Guid(0b1b6a2d22d96564f9037ae143ea84cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects/Materials/Lightning.mat using Guid(0b1b6a2d22d96564f9037ae143ea84cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16cf8c6b1d689d705e5306a4cea0a186') in 0.038263 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.010805 seconds.
+  path: Assets/EffectExamples/Fire & Explosion Effects/Materials
+  artifactKey: Guid(7ce67286f75c4e746a555fac5130786b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects/Materials using Guid(7ce67286f75c4e746a555fac5130786b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02ca07f648c22635cfd6f71e22d0ba91') in 0.007756 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.043156 seconds.
+  path: Assets/EffectExamples/Fire & Explosion Effects/Materials/SandParticle.mat
+  artifactKey: Guid(4ea8613283885aa45a5c6eb29a50bdb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects/Materials/SandParticle.mat using Guid(4ea8613283885aa45a5c6eb29a50bdb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c84eb60c9faa4809faa15b606b967541') in 0.064335 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.036104 seconds.
+  path: Assets/EffectExamples/Fire & Explosion Effects/Materials/MediumFlame3.mat
+  artifactKey: Guid(e08e6d4186f0fff4fa7743553c727a81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects/Materials/MediumFlame3.mat using Guid(e08e6d4186f0fff4fa7743553c727a81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b45f512f9f2127f7b48d247dae800e03') in 0.024247 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.102014 seconds.
+  path: Assets/EffectExamples/Fire & Explosion Effects/Textures/LargeFlame02.tif
+  artifactKey: Guid(01dc1c1c99bf4984ca35c1591d3eeb54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects/Textures/LargeFlame02.tif using Guid(01dc1c1c99bf4984ca35c1591d3eeb54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fffff1c3c21c4b4b979cfc82d49982e') in 0.018757 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.056281 seconds.
+  path: Assets/EffectExamples/Fire & Explosion Effects/Textures/SmokePuff02.png
+  artifactKey: Guid(d3c9883e2f0eef44f9241b6f8428f9fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects/Textures/SmokePuff02.png using Guid(d3c9883e2f0eef44f9241b6f8428f9fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df1bbd0d4e0566159d32b7d91f18fc41') in 0.017833 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.026671 seconds.
+  path: Assets/EffectExamples/Fire & Explosion Effects/Materials/MediumFlame03.mat
+  artifactKey: Guid(6b187db0c2e012840b1199ccf0893b54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects/Materials/MediumFlame03.mat using Guid(6b187db0c2e012840b1199ccf0893b54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4fa2dfa31579bf0571b2c9a590fe94b') in 0.015799 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.037154 seconds.
+  path: Assets/EffectExamples/Fire & Explosion Effects/Textures/Ramp02.png
+  artifactKey: Guid(dea2509f9a4d25646855f7b8fedfe191) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects/Textures/Ramp02.png using Guid(dea2509f9a4d25646855f7b8fedfe191) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b90c9257e0ad331f899a7bae727fe6e') in 0.010810 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.006887 seconds.
+  path: Assets/EffectExamples/Fire & Explosion Effects/Materials/SmokeDark.mat
+  artifactKey: Guid(698a8134f4ebbbd4e848648685f68067) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects/Materials/SmokeDark.mat using Guid(698a8134f4ebbbd4e848648685f68067) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4891749f0d022bc0aeccafd40025e0f2') in 0.019357 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.068566 seconds.
+  path: Assets/EffectExamples/Fire & Explosion Effects/Textures/EnergyEffect.tif
+  artifactKey: Guid(5dd198d85c911d44f8a3f9f9d6b00be4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects/Textures/EnergyEffect.tif using Guid(5dd198d85c911d44f8a3f9f9d6b00be4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c56c6a5cf365c5796dc0086241e3b0c') in 0.068630 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
