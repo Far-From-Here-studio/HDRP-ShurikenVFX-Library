@@ -13,7 +13,8 @@ MonoBehaviour:
   m_Name: Smoke
   m_EditorClassIdentifier: 
   profile:
-    scatteringDistance: {r: 0.71922237, g: 0.71922237, b: 0.71922237, a: 1}
+    scatteringDistance: {r: 0.7490196, g: 0.7490196, b: 0.7490196, a: 1}
+    scatteringDistanceMultiplier: 0.9602183
     transmissionTint: {r: 333.8545, g: 333.8545, b: 333.8545, a: 1}
     texturingMode: 0
     transmissionMode: 1
@@ -21,4 +22,4 @@ MonoBehaviour:
     worldScale: 1
     ior: 1.089
     hash: 1082025554
-  m_Version: 1
+  m_Version: 2
