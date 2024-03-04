@@ -106,7 +106,7 @@ Material:
     m_Floats:
     - AlphaClipping: 0.2
     - CAMERAFADE: 0
-    - EmissiveForce: 20000
+    - EmissiveForce: 50000
     - FLIPBOOK: 1
     - NormalMap_Strenght: 0
     - SOFTPATICLE: 1
