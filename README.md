@@ -1,4 +1,10 @@
 # HDRP-Shuriken VFX-Library
  Unity HDRP VFX library
+
+A simple ported version of the Unity's particle package from Builtin to HDRP
+
+Original Particle Pack Assets : https://assetstore.unity.com/packages/vfx/particles/particle-pack-127325
+
+
  
-![PromotionalScreenShot](https://static.wixstatic.com/media/40e3ee_6d6a732ab2344b7d9af184e36c722d57~mv2.png/v1/fill/w_892,h_444,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/40e3ee_6d6a732ab2344b7d9af184e36c722d57~mv2.png)
+![PromotionalScreenShot](https://static.wixstatic.com/media/40e3ee_fd536e719b584a66ace80a787efcf409~mv2.png/v1/fill/w_839,h_470,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/Capture%20d%E2%80%99%C3%A9cran%20(376).png)
