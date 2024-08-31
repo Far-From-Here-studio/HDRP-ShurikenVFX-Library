@@ -34,7 +34,7 @@ Material:
   m_LightmapFlags: 0
   m_EnableInstancingVariants: 1
   m_DoubleSidedGI: 0
-  m_CustomRenderQueue: 2750
+  m_CustomRenderQueue: 3000
   stringTagMap:
     MotionVector: User
     RenderType: Transparent
@@ -108,11 +108,11 @@ Material:
     - AO: 0
     - NormalStrenght: 0.87
     - SOFTPATICLE: 1
-    - SceneColorStrenght: 0.005
+    - SceneColorStrenght: 0.001
     - Smoothness: 0
     - Thickness: 0
-    - Vector1_5553DC64: 0.92
-    - Vector1_A5F6650B: 0.377
+    - Vector1_5553DC64: 1
+    - Vector1_A5F6650B: 1
     - _AddPrecomputedVelocity: 0
     - _AlphaCutoffEnable: 0
     - _AlphaDstBlend: 10
@@ -157,7 +157,7 @@ Material:
     - _OpaqueCullMode: 2
     - _Parallax: 0.02
     - _PerPixelSorting: 0
-    - _RenderQueueType: 3
+    - _RenderQueueType: 4
     - _SmoothnessTextureChannel: 0
     - _SoftParticlesEnabled: 1
     - _SoftParticlesFarFadeDistance: 1
