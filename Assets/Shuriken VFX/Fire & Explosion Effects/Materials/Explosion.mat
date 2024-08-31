@@ -28,6 +28,7 @@ Material:
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
   - SOFTPATICLE
+  - VERTEXCOLOR
   - _DISABLE_DECALS
   - _DISABLE_SSR_TRANSPARENT
   - _EMISSION
@@ -119,13 +120,13 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - AlphaClipping: 0.1
+    - AlphaClipping: 0.07
     - CAMERAFADE: 0
-    - EmissiveForce: 12000000
+    - EmissiveForce: 10000
     - FLIPBOOK: 0
     - NormalMap_Strenght: 0
     - SOFTPATICLE: 1
-    - VERTEXCOLOR: 0
+    - VERTEXCOLOR: 1
     - _AddPrecomputedVelocity: 0
     - _AlphaCutoffEnable: 0
     - _AlphaDstBlend: 1
